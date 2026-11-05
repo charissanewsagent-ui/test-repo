@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-11-05T21:33:52.494696+08:00",
+  "report_date": "20261105",
+  "date_label": "2026年11月05日",
+  "source_type": "Phase 1 manual test (no production push)",
+  "events": [
+    {
+      "id": "evt-20261105-001",
+      "source": "Reuters",
+      "title": "TSMC 2nm production ramp slower than planned",
+      "company": "TSMC",
+      "industry_focus": "Advanced packaging / CoWoS",
+      "date": "2026-11-04",
+      "summary": "TSMC 2nm production expansion delayed due to advanced packaging yield issues; CoWoS supply chain under pressure.",
+      "evidence": [
+        "Production ramp slower than planned",
+        "CoWoS yield pressure identified as key cause",
+        "Supply chain capacity constraint noted"
+      ],
+      "category": "Supply chain / yield",
+      "tier": "Tier-1 international"
+    },
+    {
+      "id": "evt-20261105-002",
+      "source": "TechNews 科技新報",
+      "title": "N2 mass production further delayed",
+      "company": "TSMC",
+      "industry_focus": "Fab process / yield",
+      "date": "2026-11-05",
+      "summary": "N2 mass production further delayed, affecting AI chip capacity; market focus on impact to high-end compute.",
+      "evidence": [
+        "N2 mass production further delayed",
+        "AI chip production capacity affected",
+        "Market scrutiny on high-end compute impact"
+      ],
+      "category": "Fabrication / process",
+      "tier": "Taiwan domestic"
+    },
+    {
+      "id": "evt-20261105-003",
+      "source": "DigiTimes",
+      "title": "CoWoS supply chain beginning to diversify",
+      "company": "TSMC",
+      "industry_focus": "Supply chain / competition",
+      "date": "2026-11-05",
+      "summary": "CoWoS supply chain diversification underway; Intel EMIB-T technology emerges as alternative, challenging TSMC packaging market dominance.",
+      "evidence": [
+        "CoWoS supply chain diversification underway",
+        "Intel EMIB-T technology as alternative",
+        "TSMC market dominance questioned"
+      ],
+      "category": "Competition / geopolitical",
+      "tier": "Taiwan domestic"
+    }
+  ]
+}
