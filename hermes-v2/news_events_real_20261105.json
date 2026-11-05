@@ -1,0 +1,221 @@
+{
+  "generated_at": "2026-11-05T22:33:33.557906+08:00",
+  "report_date": "20261105",
+  "date_label": "2026年11月05日",
+  "source_type": "Real news from Google News RSS + RSS feeds",
+  "collection_method": "fetch_google_news.py + fetch_rss_direct.py",
+  "is_test_data": false,
+  "statistics": {
+    "total_fetched": 20,
+    "relevant_after_filter": 16,
+    "valid_original_url_ratio": 0.8,
+    "content_status_counts": {
+      "FETCH_SUCCEEDED": 16,
+      "SUMMARY_ONLY": 0,
+      "FETCH_FAILED": 4
+    },
+    "ticker_counts": {
+      "TSMC": 10,
+      "ASE": 2,
+      "MediaTek": 4
+    },
+    "advanced_packaging_equipment_count": 3,
+    "equipment_count": 0,
+    "duplicate_merged_count": 4,
+    "total_relevant_news": 16
+  },
+  "events": [
+    {
+      "title": "台積傳砸 450 億美元赴德州建兩座先進晶圓廠 目標 2029 年底前實現量產 - 經濟日報",
+      "source": "經濟日報",
+      "original_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yWTN0MGl2ZktTc19hZndWNXVBT0NMelZremg5Y3FlUzI5OTA1dDBfb3h5SkNSWkVWMWk3OEF2YU5kTnJyOGl1Sm1CVGJjTUJXRmYtNnFRd0N5QdIBX0FVX3lxTE9vRUJaLU1LclJUSmNhTDV3UUZBY2FhT1hsa1hVUFJHcHAtTHFibHM2Unh1SnBjdGRVY1IxQWhlN21teVpkRVQ5NklrR3YwTFliVjVEa1FSWmVrZGhXTVRj?oc=5",
+      "published_at": "Wed, 04 Nov 2026 19:33:00 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.502683+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "TSMC"
+    },
+    {
+      "title": "台積發148億元綠色債 - UDN",
+      "source": "UDN",
+      "original_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2VmtWTWx1c21ibU9uQ2piQ0haUnNEVTlZZXNBZ3g3SUtjUG9TWUx1ZVJxRVNTQjZGRVJOekI2OUR4dzhsSDR5SzNQdEgtYlcx0gFWQVVfeXFMUDNVbVA3aHBXcDRkSGhhenFKYUYtMGxYTzljZXFidWNFb3hscnBrX2Jfa2YzZEw5MlNHMzNXcTVfZVVUSzZKRS1Qc1pTTFRhUkhBdHFaWGc?oc=5",
+      "published_at": "Tue, 03 Nov 2026 18:18:10 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.502759+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "TSMC"
+    },
+    {
+      "title": "看好台積電！未來5年只能押1檔 外媒答案很直接 - 自由財經",
+      "source": "自由財經",
+      "original_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DLWdZZlRtRmRFX1o2TWZ2TDBJdl9rMjFTNXFRUTFGeHV0eV9DcVBCVkVLZ0xKT216YUotc1Z6VjhhN2hVeVFmS0s0dW1hbVZzaUEzNU90ZnM2OEdTVEdv0gFkQVVfeXFMTVZRbUp1NVJqUXQzSkJfbWpRYmtTVGJzd1BvRmZWay1RcTNHb2VLMWt6Uzd5ejE0WHFhWXpXQkVsZFhGeXVuc1B3M28xbVJNSlBPbEZVRVMycEFaVkZ3emtHS1h1WQ?oc=5",
+      "published_at": "Wed, 04 Nov 2026 02:08:25 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.502803+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "TSMC"
+    },
+    {
+      "title": "富田爭取台積鏈商機 - UDN",
+      "source": "UDN",
+      "original_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1TUJWcUZ0b0xCNU4xZU1fZEJhWmJVZHJ1Nm85d1FnVllpaW1wQktMUV9QV3FVSmtIV19iMHRHZ0l4QTBDTlZ5VFFTeU1wNVdK0gFWQVVfeXFMTmhDd3NKNk5pcHp2QnFqY1ZZaklxaTNwWng3ZkN6TmFZMG5ibGFVbm5yQlA0Z3IzQW5uZmtyS0NscVJFR20ySTAxd1FPX3daZGktZEx5Y0E?oc=5",
+      "published_at": "Mon, 02 Nov 2026 16:59:24 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.502827+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "TSMC"
+    },
+    {
+      "title": "台積進駐 鳳凰城空屋率砍半 - 自由財經",
+      "source": "自由財經",
+      "original_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aVkphRE1MTU1JdG5UTVNGZnQyYTU3elhsMU55UmhUUnJiakQzbjZvaVNfVVNaVFFSeXBUcnFUcXZQQzUyN3lhcGNFdXN0RGNhd0tyZHJn0gFbQVVfeXFMTUZkY2o2Y2dINUZ4aEtUZTJoUFJEUUgyYU1tNzNEOTF0SGVYamRKRTRMU0dSOHE5RDB6YzhsaDNFaTZEOGhjeUdnb1g2MzF2aC1ZSjU1S2hDSjFSOA?oc=5",
+      "published_at": "Mon, 02 Nov 2026 21:30:00 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.502847+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "TSMC"
+    },
+    {
+      "title": "外資挺日月光投控強勁成長，先進封裝與 CPO 量產目標價最高看 908 元 - TechNews 科技新報",
+      "source": "TechNews 科技新報",
+      "original_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjlxUXYtRERNd1pUaG4zRURZRWc2b0hnbXZyQWhnYzFOLVRzbGp5Rzlzb0JBa1kyXzNZNnczQ0dwWkVhdEZGZ3VqQV8yV3J2RUVoQTJ1UjgwNGRhZkxiR0xONDRyYlYyVnNpU2poSEJWeUVxYWJlUUtLVUpmS0JZeEg3d1hUSXFYenQ2SDJKNlJ0QXV2cGVWNVc2Y284NzR2Q21kTVFR?oc=5",
+      "published_at": "Fri, 30 Oct 2026 03:02:55 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.502867+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "TSMC"
+    },
+    {
+      "title": "搶攻 AI 商機 日月光豪砸1,237億元擴充產能 - 經濟日報",
+      "source": "經濟日報",
+      "original_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmelVFUmtnTVB6VXhBTnZhOFJDajRYY3N6ZzI1RzMyU0xLSnptWFJaSkQyVTBuajloQW1OaHctSjdCbUxITWstUzlDNFVyVmg0T0xtWEFRSFV4UdIBX0FVX3lxTFBUU0tWUUhjS3hRQ3YtN2k2VmVOZGZQUGRXdUZmSWF2Ym9qSkowZy1OMlVweUo0Qk9RRE9VNlNuMWlpQXEzaDZtQWdqOHg4SG9xODJDcmw0RjZGTFZ1Zktz?oc=5",
+      "published_at": "Thu, 05 Nov 2026 07:51:28 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.502892+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "ASE"
+    },
+    {
+      "title": "投資台灣再添千億申請　日月光1237億擴充高階封測產能 - 經濟日報",
+      "source": "經濟日報",
+      "original_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93SHdDVHp0VkZBQUZMQWVJNlZnamFGcGFUZG1OWFBJM0FBcFE2Y3U1RG9YYUUyLVloRlJzekg4TVl2Nl92VFlOamVNTUNOLTF0RUhXaG05VDB0UdIBX0FVX3lxTE5ZX09fNHpjTWlsTEFEM0Q3eVRLaXk2Nm42UFNXUFpzalFubXM0Sk5tSHo0enNvYkUzbXRlYXBhWjM3R3NyMFl6VWw2eU1wcDVLUUdOakdvN19fWUV1QTlJ?oc=5",
+      "published_at": "Thu, 05 Nov 2026 08:47:14 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.502916+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "TSMC"
+    },
+    {
+      "title": "日月光Q3大賺逾半個股本 - UDN",
+      "source": "UDN",
+      "original_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHVWZrbW5wbjRCSm1iWG96M1JlZ3dRbXdCSnhIZUh4UVhIamp3OGFpQk5QdllSS3hab2RYeHBtcFpCRENzVlRYX2c5RG9TemdL0gFWQVVfeXFMT004T0pjTHBKbC00UThDbHJHTTFNNE1PYVJxSHdaT2RqMDN0aXdMQVpGYVZhTXdwYmhFakN1R1VHTXJVb3lGak9QV3pOVEdoRXRQR3o4X3c?oc=5",
+      "published_at": "Thu, 29 Oct 2026 18:05:23 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.502935+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "ASE"
+    },
+    {
+      "title": "投資台灣再添千億申請日月光1237億擴充高階封測產能| 產經 - 中央社 CNA",
+      "source": "中央社 CNA",
+      "original_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PMGdMaFd0OTRqZnRsZ0JBN1dUek5JTldSR0s2NDhxU2ljZ3pwOExWdkZWcDRnWmZFN3RsYUhyZHZURUZkZDlVM3BjZHhXZ3ZaTHl5RkhqY0VPRHZUTGc?oc=5",
+      "published_at": "Thu, 05 Nov 2026 08:33:00 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.502957+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "TSMC"
+    },
+    {
+      "title": "聯發科邀請英特爾前高層 Navid Shahriari 加入，深化與台積電等重要供應鏈夥伴合作 - TechNews 科技新報",
+      "source": "TechNews 科技新報",
+      "original_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXBwUDlBRWRFQ1BBYzRUZ3U3SzBlYTBvWmx1UnhWcVBBcEdaOHB0ajlyNE1NWmpweGswS1h2ajNLMjBLWExEZ1owTkI1bjlxOU9XY1J5VUpwOVhaN0dua3BiWUIxUWQwTU82cjhtTjkzLVN0eEF4akJmQzlJYjhTWUN2dXJDOUxkaV9kUWU2ZFpZTmlTb0R3TFNmMVlfRkZFU09zQ2VlbDFMMk9kWUtYWHZLZmp2UQ?oc=5",
+      "published_at": "Wed, 04 Nov 2026 22:11:56 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.502981+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "TSMC"
+    },
+    {
+      "title": "驚豔 AI ASIC 領域執行力與新客戶拓展，外資給聯發科最高目標價 7,300 元 - TechNews 科技新報",
+      "source": "TechNews 科技新報",
+      "original_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTC1FT0FndWxaNkZ3VjZ4U1BhQ2pjMGpsR0JkSHVNRmRIV0pLcjc3NXRpU3hQVW13VWZaMUZhbllCU1hCdU9lRnZtbkF6cXc4SnNwMWZMWlJJUl92SzFOenJTYzA0NTQyRTNvYmt4TVBPdDdYRk5nMklrRkJYQ0FkbmNlS19QRmdiZ1BQS0I3Nzk4bnlSY1B6c1d2RkxXdWpSYzZKdWI0RGtXSE1w?oc=5",
+      "published_at": "Mon, 02 Nov 2026 01:49:14 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.503001+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "MediaTek"
+    },
+    {
+      "title": "蔡力行：聯發科迎接 AI 時代，持續運用科技與研發實力邁向全球頂尖 AI 企業 - TechNews 科技新報",
+      "source": "TechNews 科技新報",
+      "original_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IMm1LenNtX0JTYU05NkJLclBrUE9jVlZHMGFhU0hWWDQ1eG1FSzJ4UWp6VTcxWkFGbE5MNk5oTUJnSE5QbkdOX3QxY1lWZUdJRXhWd0o0S3d6Ym1hRHR0bkZLcllWSEk?oc=5",
+      "published_at": "Tue, 03 Nov 2026 06:41:19 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.503022+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "MediaTek"
+    },
+    {
+      "title": "聯發科 2026 年 ASIC 營收將達 25 億美元，確認取得第二家雲端 ASIC 客戶 - TechNews 科技新報",
+      "source": "TechNews 科技新報",
+      "original_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1UzeVNOcDV3cTlQeDF3Z0JGTE5HemMxc3phRjZoOUJ1dHR6QzJsV0Z3OFMxdFNnTzFzNGlidUU4eS16QzlpcWlfamJvcDNMaDBuYkJvcmhGd2lQZlpOdDNlay1lZGNnTGktSGJjWHJRRWFoWFRLenVuMXgwMjV3ZXVWSl9JX2Q1emJWZWhYZ1JlTUpyaENvbw?oc=5",
+      "published_at": "Fri, 30 Oct 2026 12:23:53 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.503043+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "MediaTek"
+    },
+    {
+      "title": "聯發科法說會／首顆 ASIC 已經開始出貨 估本季帶入25億美元貢獻 - 經濟日報",
+      "source": "經濟日報",
+      "original_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Qk4xdHdmWHlnZkhMM2tyNFIzdFpJOElJdVlQRm9Sd09kMER1Nzlva1U1dzJ4d2tkS2EwVlNubENLZFQ3SnBjM19CR2F1VF9FSGxkTG03YTBWZ9IBX0FVX3lxTFBSWFJpd1BxWTdjX1lEamZPb2tpUkFkTC1HRFNyVzFRRDN3SlBTMFFnak5mOXdBT2lERmNFWEtaX0F2Y1ExZEVESUwySmdZLTNkTnFlc2dEZ2UxbmRGZjN3?oc=5",
+      "published_at": "Fri, 30 Oct 2026 07:43:50 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.503064+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "MediaTek"
+    },
+    {
+      "title": "奧特曼來台固樁催動台廠大商機傳下一站密訪台積電、廣達、緯創- 日報 - 工商時報",
+      "source": "工商時報",
+      "original_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CTzF5ZncwM0MtbFk4ZE0wb0txNGdleDRRQlhXYWFyNjhrQTNWNzJ5TjhCNlhwWVY3Z1V1eGhTN2o2QTJtNGUyUmhyTm1xQkNCd2JZSXkyajcySTZpeFlF?oc=5",
+      "published_at": "Sun, 01 Nov 2026 19:00:00 GMT",
+      "retrieved_at": "2026-11-05T22:33:39.503126+08:00",
+      "content_status": "FETCH_SUCCEEDED",
+      "verification_status": "UNVERIFIED",
+      "has_full_text": false,
+      "cross_validation": false,
+      "ticker_company": "TSMC"
+    }
+  ]
+}
