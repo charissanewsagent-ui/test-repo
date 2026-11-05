@@ -1,0 +1,52 @@
+{
+  "generated_at": "2026-11-05T21:33:52.494696+08:00",
+  "report_date": "20261105",
+  "sample_count": 3,
+  "description": "Phase 1 最小 LLM 測試樣本（公开新闻必要字段、摘要、证據）",
+  "purpose": "模型能否提取事实、分析技术与供应链影响、区分事实与推论",
+  "samples": [
+    {
+      "id": "smp-001",
+      "title": "TSMC 2nm 產能擴張遲於預期",
+      "source": "Reuters",
+      "company": "TSMC",
+      "category": "Supply chain / yield",
+      "summary": "TSMC 2nm 產能擴張延遲，主要原因是先進封裝良率未達標，CoWoS 供應鏈仍有壓力。",
+      "evidence": [
+        "Production ramp slower than planned",
+        "CoWoS yield pressure noted as key cause",
+        "Supply chain capacity constraint noted"
+      ],
+      "tier": "Tier-1 international"
+    },
+    {
+      "id": "smp-002",
+      "title": "N2 量產進度進一步拖延",
+      "source": "TechNews 科技新報",
+      "company": "TSMC",
+      "category": "Fabrication / process",
+      "summary": "N2 量產進度進一步拖延，影響 AI 晶片產能，市場關注其對高階算力的影響。",
+      "evidence": [
+        "N2 量產進度進一步拖延",
+        "AI 晶片產能受影響",
+        "高階算力影響"
+      ],
+      "tier": "Taiwan domestic"
+    },
+    {
+      "id": "smp-003",
+      "title": "CoWoS 供應鏈開始多元化",
+      "source": "DigiTimes",
+      "company": "TSMC",
+      "category": "Competition / geopolitical",
+      "summary": "CoWoS 供應鏈多元化，Intel EMIB-T 作為替代方案出現，台積電在封裝市場的壟斷地位受到挑戰。",
+      "evidence": [
+        "CoWoS 供應鏈多元化進行中",
+        "Intel EMIB-T 技術作為替代方案",
+        "台積電在封裝市場的壟斷地位受到挑戰"
+      ],
+      "tier": "Taiwan domestic"
+    }
+  ],
+  "license": "Public news with necessary fields only. No full article text, no copyrighted content."
+}
